@@ -1,3 +1,13 @@
+This repo is used for generating a Twemoji font that works on Windows properly everywhere and some additional tweaks
+
+## Building
+1. Download Ubuntu 20.04
+2. Install `git`
+3. Clone this repo
+4. Run `setup.sh`
+5. Run `build.sh`
+6. If everything went right, the font should be in `build/twemoji-sbix.ttf`
+
 # twemoji-colr
 
 Project to create a COLR/CPAL-based color OpenType font
