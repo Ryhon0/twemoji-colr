@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg40"
+   sodipodi:docname="1F3F3-FE0F-2B1B-1F7E7.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:export-filename="/home/ryhon/twemoji-colr/overrides/1F3F3-FE0F-2B1B-1F7E7.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs44" />
+  <sodipodi:namedview
+     id="namedview42"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="57.118514"
+     inkscape:cx="15.695436"
+     inkscape:cy="2.6348725"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="1920"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg40" />
+  <path
+     fill="#CF142B"
+     d="M32 5H18v26h14c2.209 0 4-1.791 4-4V9c0-2.209-1.791-4-4-4z"
+     id="path2"
+     style="fill:#fb9902;fill-opacity:1" />
+  <path
+     fill="#EEE"
+     d="M4 5C1.791 5 0 6.791 0 9v18c0 2.209 1.791 4 4 4h14V5H4z"
+     id="path4"
+     style="fill:#000000;fill-opacity:1" />
+</svg>
